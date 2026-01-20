@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e1b14f50-3987-4bf0-aa0e-41d767174cce" />
+</p>
 
-<!--
-**muntasiralamresti-official/muntasiralamresti-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello People 👋 I'm Muntasir Alam Resti</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+💻 Web Developer | 🎨 UI/UX Designer | 🌐 Full Stack Enthusiast  
+<br/>
+📍 Dhaka, Bangladesh 🇧🇩
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Technologies That I Am Skilled In
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,firebase,figma,xd,ai,wordpress" />
+</p>
+
+---
+
+## 👀 Current Overview
+
+- 🚀 Student At Creative IT Institute 
+- 📚 Exploring JavaScript 
+- 🎯 Focused on building scalable web applications  
+- 🌱 Improving every single day
