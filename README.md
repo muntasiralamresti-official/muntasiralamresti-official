@@ -15,7 +15,7 @@
 ## 💻 Technologies That I Am Skilled In
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,firebase,figma,react,xd,ai,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,firebase,figma,react,xd,ai,wordpress, api" />
 </p>
 
 ---
