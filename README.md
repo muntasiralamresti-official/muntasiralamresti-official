@@ -17,6 +17,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,firebase,figma,react,xd,ai,wordpress" />
   <img src="https://img.icons8.com/color/48/api.png" height="48" />
+
+  <!-- New Icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="48"/>
 </p>
 
 ---
