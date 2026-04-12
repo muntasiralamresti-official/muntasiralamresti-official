@@ -62,10 +62,10 @@ I love turning ideas into real-world digital experiences using clean UI and scal
 
 <p align="center">
   <a href="https://linkedin.com/in/muntasir-alam-resti">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   
-  <a href="muntasiralamresti@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  <a href="mailto:muntasiralamresti@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
