@@ -74,7 +74,6 @@ I enjoy creating clean UI, scalable backend solutions and meaningful digital exp
 
 - 🌱 Learning **Backend Development**
 - ⚡ Building **Full Stack Applications**
-- 💻 Exploring **MongoDB & Express.js**
 - 🔥 Advanced React Patterns
 - 🎯 Writing Clean & Scalable Code
 
