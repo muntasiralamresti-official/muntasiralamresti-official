@@ -9,7 +9,7 @@ Frontend Developer • React & Next.js Developer • UI/UX Designer • Full-Sta
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+Next.js+Developer;Building+DashStack+%F0%9F%9A%80;UI%2FUX+Designer;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+Next.js+Developer;+UI%2FUX+Designer;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
